@@ -1,0 +1,2 @@
+INSERT INTO Ejemplo.TUsuario(Id_TUsuario, NTUsuario, DescripcionT)VALUES(NULL,'SuperUsuario','Usuario Especializado encargado del sistema'),
+(NULL,'AdminUsuario','Usuario Tecnico Administrativo del sistema'),(NULL,'UsuarioFinal','Usuario del sistema con restricciones');

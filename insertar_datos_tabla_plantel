@@ -1,0 +1,3 @@
+INSERT INTO Ejemplo.Plantel(Id_Plantel, NombrePlantel, DireccionPlantel, EmailPlantel, TelefonoPlantel)VALUES(NULL,'NaucalpanI','Calle Miguel Negrete S/N, San Rafael Chamapa, 54690 Naucalpan de Juárez, Méx.',
+'cn_naucalpan1@conalepmex.edu.mx','55-53-12-22-77'),(NULL,'NaucalpanII',' Av. de las Granjas S/N, Martires de Rio Blanco, 53780 Naucalpan de Juárez, Méx.',
+'cn_nauclapan2@conalepmex.edu.mx','55 5312 4392');

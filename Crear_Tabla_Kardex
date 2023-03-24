@@ -1,0 +1,2 @@
+CREATE TABLE Ejemplo.Kardex(Id_Kardex INT AUTO_INCREMENT NOT NULL, Id_Material INT NOT NULL, StokMaterial INT NOT NULL, CantidatTMaterial INT NOT NULL,
+Id_Plantel INT NOT NULL, PRIMARY KEY(Id_Kardex))ENGINE = InnoDB;

@@ -1,0 +1,2 @@
+CREATE TABLE Ejemplo.Materiales(Id_Material INT AUTO_INCREMENT NOT NULL, NombreMat VARCHAR(55) NOT NULL, DescripcionMat TEXT NOT NULL, 
+Id_UnidadM INT NOT NULL, Id_Marca INT NOT NULL, ImagenMat VARCHAR(255) NOT NULL, PRIMARY KEY(Id_Material))ENGINE = InnoDB;

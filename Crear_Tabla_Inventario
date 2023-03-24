@@ -1,0 +1,2 @@
+CREATE TABLE Ejemplo.Inventario(Id_Inventario INT AUTO_INCREMENT NOT NULL, Id_Kardex INT NOT NULL, Id_Material INT NOT NULL, Id_Entradas INT NOT NULL,
+Id_Salidas INT NOT NULL, CantidadTotal INT NOT NULL, PRIMARY KEY(Id_Inventario))ENGINE = InnoDB;

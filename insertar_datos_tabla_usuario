@@ -1,0 +1,2 @@
+INSERT INTO Ejemplo.Usuario(Id_Usuario,Nombre,ApellidoP,ApellidoM,Telefono,Email,Id_Plantel,Id_TUsuario,Password,ImgUsuario)VALUES(NULL,'Jose Luis',
+'Chavez','Gomez','55-55-55-55-55','contacto@iscjoseluischavezg.mx','1','1','54321','img1.png');
