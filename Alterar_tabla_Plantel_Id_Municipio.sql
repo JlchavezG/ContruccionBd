@@ -1,0 +1,1 @@
+ALTER TABLE Ejemplo.Plantel ADD Id_Municipio INT NOT NULL AFTER TelefonoPlantel;

@@ -1,0 +1,1 @@
+UPDATE Ejemplo.Plantel SET Id_Municipio = '1' WHERE Id_Plantel = 2;

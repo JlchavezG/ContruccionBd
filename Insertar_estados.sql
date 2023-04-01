@@ -1,0 +1,1 @@
+INSERT INTO Ejemplo.Estados(Id_Estado, NombreEstado)VALUES(NULL,'México'),(NULL,'Queretaro'),(NULL, 'Puebla');
