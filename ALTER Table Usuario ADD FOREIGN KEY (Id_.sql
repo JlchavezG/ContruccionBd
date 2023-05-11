@@ -1,0 +1,1 @@
+ALTER  Table Ejemplo.Usuario ADD FOREIGN KEY(EstatusUser)REFERENCES EstatusUser (Id_EstatusUser);

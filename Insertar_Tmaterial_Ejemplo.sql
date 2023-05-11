@@ -1,0 +1,1 @@
+INSERT INTO Ejemplo.TEntrada(Id_TEntrada, NombreTEntrada) VALUES(NULL,'Compra'),(NULL,'Donación');

@@ -1,0 +1,1 @@
+ALTER TABLE Ejemplo.EntradaMaterial ADD FOREIGN KEY(Id_TEntrada) REFERENCES TEntrada(Id_TEntrada);
