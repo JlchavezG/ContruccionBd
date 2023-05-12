@@ -1,0 +1,2 @@
+CREATE TABLE Ejemplo.CategoriaMaterial(Id_Categoria INT AUTO_INCREMENT NOT NULL, NombreCate VARCHAR(55)
+ NOT NULL, PRIMARY KEY(Id_Categoria))ENGINE = INNODB CHARSET = UTF8 COLLATE UTF8_spanish_ci;
