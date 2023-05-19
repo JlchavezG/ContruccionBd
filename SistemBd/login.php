@@ -1,4 +1,6 @@
-<?php  ?>
+<?php include "includes/ConectBd.php"; 
+      include "includes/verifLogin.php";  
+?>
 <!DOCTYPE html>
 <html lang="es">
 
