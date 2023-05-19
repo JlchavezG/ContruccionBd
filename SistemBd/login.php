@@ -1,3 +1,4 @@
+<?php  ?>
 <!DOCTYPE html>
 <html lang="es">
 
@@ -91,6 +92,11 @@
                             <use xlink:href="library/icons/bootstrap-icons.svg#github" />
                         </svg>
                     </div>
+                </div>
+            </div>
+            <div class="row py-2">
+                <div class="col text-center">
+                    <img src="img/logo_iscjlchavezg.png" alt="logo_iscjlchavezg" class="img-fluid" style="width: 100px;"/>
                 </div>
             </div>
         </div>  
